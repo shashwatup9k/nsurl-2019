@@ -60,7 +60,7 @@ License: CC BY-NC-SA 4.0
 =======
 Includes text: yes
 Genre: Sign language/COVID data
-Shared Task Organisers: Kumar; Ritesh, Ojha, Atul Kr.
+Shared Task Organisers: Kumar; Ritesh and Ojha, Atul Kr.
 Contributor/&copy;holder: Panlingua Language Processing LLP, N. Delhi, India and KMI-Linguistics, Dr. Bhimrao Ambedkar University, Agra
 =======================================================================================================
 </pre>
