@@ -45,7 +45,7 @@ Results will be made available as per the workshop schedule
 ### Paper submission
 =====================
 
-Paper submission instructions will be same as for the workshop
+Paper submission instructions will be same as for the [workshop](http://nsurl.org/2019-2/)
 
 <pre>
  Query
